@@ -10,7 +10,7 @@ export class LmActorSheet extends ActorSheet {
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
       classes: ["lm", "sheet", "actor"],
-      template: "systems/lm/templates/actor/actor-sheet.html",
+      template: "systems/lm/templates/actor/actor-character-sheet.html",
       width: 600,
       height: 600,
       tabs: [{ navSelector: ".sheet-tabs", contentSelector: ".sheet-body", initial: "features" }]

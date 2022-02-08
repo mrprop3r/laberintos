@@ -2,7 +2,7 @@
   "name": "lm",
   "title": "Laberintos Mortales",
   "description": "The Laberintos Mortales system for FoundryVTT!",
-  "version": "0.1",
+  "version": "0.2",
   "minimumCoreVersion": "9.249",
   "compatibleCoreVersion": "9",
   "author": "mrprop3r",
@@ -22,7 +22,7 @@
   "primaryTokenAttribute": "hp",
   "secondaryTokenAttribute": "AC",
   "url": "https://github.com/mrprop3r/laberintos",
-  "manifest": "",
-  "download": "",
+  "manifest": "https://github.com/mrprop3r/laberintos/releases/download/untagged-f363d5fa5acc9606da80/system.json",
+  "download": "https://github.com/mrprop3r/laberintos/releases/download/untagged-f363d5fa5acc9606da80/lm.zip",
   "license": "LICENSE.txt"
 }
