@@ -1,0 +1,28 @@
+{
+  "name": "lm",
+  "title": "Laberintos Mortales",
+  "description": "The Laberintos Mortales system for FoundryVTT!",
+  "version": "0.1",
+  "minimumCoreVersion": "9.249",
+  "compatibleCoreVersion": "9",
+  "author": "mrprop3r",
+  "esmodules": ["module/lm.mjs"],
+  "styles": ["css/lm.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Spanish",
+      "path": "lang/es.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "hp",
+  "secondaryTokenAttribute": "AC",
+  "url": "https://github.com/mrprop3r/laberintos",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE.txt"
+}

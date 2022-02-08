@@ -1,0 +1,22 @@
+{
+  "lm.AbilityStr": "Fuerza",
+  "lm.AbilityCon": "Constitución",
+  "lm.AbilityDex": "Destreza",
+  "lm.AbilityInt": "Inteligencia",
+  "lm.AbilityWis": "Sabiduría",
+  "lm.AbilityCha": "Carisma",
+
+  "lm.AbilityStrAbbr": "fue",
+  "lm.AbilityConAbbr": "con",
+  "lm.AbilityDexAbbr": "des",
+  "lm.AbilityIntAbbr": "int",
+  "lm.AbilityWisAbbr": "sab",
+  "lm.AbilityChaAbbr": "car",
+
+  "lm.EffectCreate": "Crear Efecto",
+  "lm.EffectToggle": "Cambiar Efecto",
+  "lm.EffectEdit": "Editar Efecto",
+  "lm.EffectDelete": "Borrar Efecto",
+
+  "lm.Add": "Añadir"
+}
